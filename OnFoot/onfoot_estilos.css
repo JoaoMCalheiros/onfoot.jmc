@@ -1,0 +1,150 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cabecalho{
+    text-align: center;
+    background-color: rgb(250, 250, 121);
+    padding-bottom: 20px;
+    padding-top: 8px
+}
+
+.conteudo{
+    /*width: 300px;*/
+    /*height: 700px;*/
+    margin: 45px 75px 45px 75px;
+    /*border: 1px solid red;*/
+    /*background-color:aqua;*/
+}
+
+.rodape{
+    background-color: rgb(250, 250, 121);
+    margin:0px;
+    padding: 20px;
+    width:100%;
+}
+
+a.home:link, a.home:visited{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 100px;
+    text-decoration: none;
+    font-weight:bold;
+    /*font-size: 20px;*/
+    transition: 0.5s;
+    margin: 0 15px;
+}
+a.home:hover, a.home:active{
+    text-decoration: none;
+    color:honeydew;
+    font-weight:bold;
+    /*font-size: 90px;*/
+    transition: 0.5s;
+    margin: 0 15px;
+}
+/*
+a.sobrenos:link, a.sobrenos:visited{
+    text-decoration: none;
+    font-weight:bold;
+    font-size: 20px;
+    color:black;
+    transition: 0.5s;
+    margin: 0 15px;
+}
+a.sobrenos:hover, a.sobrenos:active{
+    text-decoration: underline;
+    color: rgb(161, 11, 11);
+    font-weight:bold;
+    font-size: 20px;
+    transition: 1s;
+    margin: 0 15px;
+}
+*/
+
+a.loja:link, a.loja:visited{
+    text-decoration: none;
+    font-weight:bold;
+    font-size: 20px;
+    color:black;
+    transition: 0.5s;
+    margin: 0 15px;
+}
+a.loja:hover, a.loja:active{
+    text-decoration: underline;
+    font-weight:bold;
+    font-size: 20px;
+    transition: 1s;
+    margin: 0 15px;
+    border-radius: 5px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+}
+
+a.promocoes:link, a.promocoes:visited{
+    text-decoration: none;
+    font-weight:bold;
+    font-size: 20px;
+    color:black;
+    transition: 0.5s;
+    margin: 0 15px;
+}
+a.promocoes:hover, a.promocoes:active{
+    text-decoration: underline;
+    font-weight:bold;
+    font-size: 20px;
+    transition: 1s;
+    margin: 0 15px;
+    border-radius: 5px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+}
+
+a.contatos:link, a.contatos:visited{
+    text-decoration: none;
+    font-weight:bold;
+    font-size: 20px;
+    color:black;
+    transition: 0.5s;
+    margin: 0 15px;
+}
+a.contatos:hover, a.contatos:active{
+    text-decoration: underline;
+    font-weight:bold;
+    font-size: 20px;
+    transition: 1s;
+    margin: 0 15px;
+    border-radius: 5px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+}
+
+a.politicas:link, a.politicas:visited{
+    text-decoration: none;
+    font-weight:bold;
+    font-size: 20px;
+    color:black;
+    transition: 0.5s;
+    margin: 0 15px;
+}
+a.politicas:hover, a.politicas:active{
+    text-decoration: underline;
+    font-weight:bold;
+    font-size: 20px;
+    transition: 1s;
+    margin: 0 15px;
+    border-radius: 5px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+}
+
+/*h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 100px;
+  }*/
+
+  
